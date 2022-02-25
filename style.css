@@ -1,0 +1,19 @@
+table {
+    width: 250px;
+    height: 250px;
+    border-collapse: collapse;
+}
+
+
+td {
+    border: 2px solid rgba(160, 160, 160, 0.849);
+    text-align: center;
+}
+
+.first-row{
+    border-top: 3px solid black;
+}
+
+.first-row-33{
+    border-top: 3px solid rgb(92, 92, 92);
+}
